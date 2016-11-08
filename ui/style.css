@@ -15,8 +15,9 @@
 }
 #nav
 {
- background-color:#12abcd;
+ background-color:black;
  width:auto;
  height:30px;
  color:white;
+ word-spacing:30px;
 }
